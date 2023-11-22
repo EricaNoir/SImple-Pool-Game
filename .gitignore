@@ -20,6 +20,7 @@ Thumbs.db
 .DS_Store
 
 # Gradle
+gradle
 .gradle
 !gradle-wrapper.jar
 
