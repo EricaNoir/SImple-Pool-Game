@@ -22,6 +22,7 @@ Thumbs.db
 # Gradle
 gradle
 gradlew
+gradlew.bat
 .gradle
 !gradle-wrapper.jar
 
